@@ -28,7 +28,7 @@ The PDF-Genie project aims to develop an intelligent system capable of understan
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Balaji-V-S/PDF-Genie.git
+git clone https://github.com/Balaji-V-S/PDF-Genie
 ```
 
 2. Install the required packages:
