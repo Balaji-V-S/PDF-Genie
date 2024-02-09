@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AI Knowledge Genie project aims to develop an intelligent system capable of understanding and processing the content within uploaded PDF documents. Leveraging the FAISS (Facebook AI Similarity Search) algorithm, this system can efficiently index and search through vast amounts of textual data, providing users with valuable insights and knowledge extraction.
+The PDF-Genie project aims to develop an intelligent system capable of understanding and processing the content within uploaded PDF documents. Leveraging the FAISS (Facebook AI Similarity Search) algorithm, this system can efficiently index and search through vast amounts of textual data, providing users with valuable insights and knowledge extraction.
 
 ## Features
 
